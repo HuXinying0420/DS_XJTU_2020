@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\数据结构实验\新建文件夹\huffman\Debug\huffman.exe
+C:\Users\LENOVO\Desktop\数据结构实验\新建文件夹\huffman\Debug\huffman.pdb
+C:\Users\LENOVO\Desktop\数据结构实验\Datastruct2020_exp03\huffman\Debug\huffman.exe
+C:\Users\LENOVO\Desktop\数据结构实验\Datastruct2020_exp03\huffman\Debug\huffman.pdb
