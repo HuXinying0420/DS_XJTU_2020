@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hxy_exp02_KMP", "hxy_exp02_KMP\hxy_exp02_KMP.vcxproj", "{7834BA8D-5637-4A43-A6AB-9D5C55184076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Debug|x64.ActiveCfg = Debug|x64
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Debug|x64.Build.0 = Debug|x64
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Debug|x86.ActiveCfg = Debug|Win32
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Debug|x86.Build.0 = Debug|Win32
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Release|x64.ActiveCfg = Release|x64
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Release|x64.Build.0 = Release|x64
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Release|x86.ActiveCfg = Release|Win32
+		{7834BA8D-5637-4A43-A6AB-9D5C55184076}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53CD0D1-329C-44D4-9E38-F6190A611A34}
+	EndGlobalSection
+EndGlobal

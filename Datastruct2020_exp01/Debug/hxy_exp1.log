@@ -1,0 +1,3 @@
+﻿  hxy_exp1.cpp
+C:\Users\Administrator\Desktop\hxy\hxy_exp1\hxy_exp1.cpp(183): warning C4715: “Operate”: 不是所有的控件路径都返回值
+  hxy_exp1.vcxproj -> C:\Users\Administrator\Desktop\hxy\hxy_exp1\Debug\hxy_exp1.exe
