@@ -52,7 +52,8 @@ This repository contains implementations for four experiments as part of the "Da
     * Output the shortest path and its length on successful retrieval.
 
 ---
-Code explanations can be found in report.pdf.
+Code explanations can be found in report.pdf
+
 Testing tool: AutoScore.exe
 
 数据结构课程实验
