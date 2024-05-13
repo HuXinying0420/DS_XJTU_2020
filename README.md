@@ -1,4 +1,60 @@
 # DataStructure_XJTU_2020
+
+This repository contains implementations for four experiments as part of the "Data structure and program design" subject experiment course. The experiments and their specific requirements are detailed below:
+
+## Experiment 1: Expression Evaluation
+* **Requirements:**
+  * Basic requirement: Implement basic stack operations and expression evaluation.
+* **Implementation requirements:**
+  * Implement basic stack operations like push and pop.
+  * Check if the input expression is a valid mathematical expression.
+  * Evaluate the value of the correct mathematical expression.
+* **Notes:**
+  * The evaluation of mathematical expressions should support addition, subtraction, multiplication, division, parentheses, brackets, braces, and exponentiation.
+  * Incorrect expressions may include letters, non-operator symbols, mismatched parentheses, incorrectly arranged operators, and division by zero among others.
+  * Expressions are input and output through command line parameters.
+  * Output requirements:
+    * Output the result if the expression is correct.
+    * Output ERROR_01 if command line parameters are incorrect.
+    * Output ERROR_02 for format errors in expressions.
+    * Output ERROR_03 for logical errors during computation.
+
+## Experiment 2: Pattern Matching Based on Strings
+* **Requirements:**
+  * Use strings and pattern matching algorithms.
+  * Implement pattern matching using the KMP algorithm.
+* **Notes:**
+  * Chinese characters occupy 2 positions in a string.
+  * Output requirements:
+    * Output the position of the keyword in the characters. If it does not exist, output -1.
+    * Output ERROR_01 for incorrect command line parameters.
+
+## Experiment 3: Encoding/Decoding Based on Huffman Tree
+* **Requirements:**
+  * Input a string (length >= 20) from the keyboard to construct a Huffman tree.
+  * Obtain the encoding of each character based on the tree, and encode the string.
+  * Decode the obtained encoding.
+  * Implement a non-recursive preorder traversal algorithm based on the Huffman tree to output all nodes of the tree, node weights, node degrees, and node levels.
+* **Notes:**
+  * The sizes of left and right children of nodes in the Huffman tree should satisfy the condition that the weight of the left child is less than the weight of the right child.
+  * Output requirements:
+    * Output ERROR_01 for incorrect command line parameters.
+    * Output ERROR_02 for encoding failures.
+    * Output ERROR_03 for decoding failures.
+
+## Experiment 4: Shortest Path Search in an Undirected Graph
+* **Requirements:**
+  * Proficient in graph operations.
+* **Notes:**
+  * Output requirements:
+    * Output ERROR_01 for incorrect command line parameters.
+    * Output ERROR_02 for failure to obtain the shortest path.
+    * Output the shortest path and its length on successful retrieval.
+
+---
+Code explanations can be found in report.pdf.
+Testing tool: AutoScore.exe
+
 数据结构课程实验
 ## 实验一 表达式求值
 * 实验要求
@@ -59,7 +115,7 @@
 1. 出处：本文首发于 GitHub HuXinying0420 的仓库
 2. 原文地址：https://github.com/HuXinying0420/DS_XJTU_2020
  
-This article was originally published on GitHub by HuXinying0420 in the repository ME233_TBSI_2024 at the following address: https://github.com/HuXinying0420/DS_XJTU_2020
+This article was originally published on GitHub by HuXinying0420 in the repository DS_XJTU_2020 at the following address: https://github.com/HuXinying0420/DS_XJTU_2020
 
 Please note the following when reprinting this content:
 
