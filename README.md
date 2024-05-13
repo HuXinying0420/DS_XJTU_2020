@@ -56,6 +56,8 @@ Code explanations can be found in report.pdf
 
 Testing tool: AutoScore.exe
 
+---
+<!-- 
 数据结构课程实验
 ## 实验一 表达式求值
 * 实验要求
@@ -115,6 +117,7 @@ Testing tool: AutoScore.exe
  
 1. 出处：本文首发于 GitHub HuXinying0420 的仓库
 2. 原文地址：https://github.com/HuXinying0420/DS_XJTU_2020
+ -->
  
 This article was originally published on GitHub by HuXinying0420 in the repository DS_XJTU_2020 at the following address: https://github.com/HuXinying0420/DS_XJTU_2020
 
