@@ -57,6 +57,13 @@ Code explanations can be found in report.pdf
 Testing tool: AutoScore.exe
 
 ---
+
+## Disclaimer
+
+This repository is intended for personal academic use and reference. It is recommended to understand and work through the materials independently before referring to the provided solutions. 
+
+Feel free to explore the content and reach out if you have any questions!
+
 <!-- 
 数据结构课程实验
 ## 实验一 表达式求值
@@ -105,6 +112,7 @@ Testing tool: AutoScore.exe
   * 命令行参数不正确输出ERROR_01；
   * 获取最短路径失败时输出ERROR_02；
   * 获取最短路径成功时输出最短路径以及路径长度。
+
 ---
 代码详解见report.pdf
 
@@ -118,6 +126,8 @@ Testing tool: AutoScore.exe
 1. 出处：本文首发于 GitHub HuXinying0420 的仓库
 2. 原文地址：https://github.com/HuXinying0420/DS_XJTU_2020
  -->
+
+ ---
  
 This article was originally published on GitHub by HuXinying0420 in the repository DS_XJTU_2020 at the following address: https://github.com/HuXinying0420/DS_XJTU_2020
 
